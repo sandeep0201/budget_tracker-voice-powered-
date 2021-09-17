@@ -1,4 +1,4 @@
-# Speechly Expense Tracker
+# Speechly Budget Tracker
 
 
 ## Introduction
